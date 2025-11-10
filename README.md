@@ -15,7 +15,7 @@ You play a young police officer, fresh out of the academy, who’s been assigned
 
 But as time goes on, you begin to sense that something is following you through the entire police station.
 
-🎮 Play the latest [Release](https://hdm-stuttgart.de/medianight/projekte?projekt_ID=4869){:target="_blank"} <br>
+🎮 Play the latest <a href="https://hdm-stuttgart.de/medianight/projekte?projekt_ID=4869" target="_blank">Release</a> <br>
 <!-- 🎬 Watch the [Video walkthrough]() <br> -->
 
 |<img src="/img/korpsgeist/korpsgeist_01.png"  width="387">|<img src="/img/korpsgeist/korpsgeist_02.png" width="387">
@@ -54,7 +54,7 @@ Bounce Ball: Neon Party Arcade is reimagining a videogame classic: Play virtual 
 
 Bounce Ball: Neon Party Arcade has been developed by an interdisciplinary team of students as a semester project within a time frame of four months. We hope you enjoy our final results! 
 
-🎮 Play the latest [Build](https://store.steampowered.com/app/1822300/Bounce_Ball_Neon_Party_Arcade){:target="_blank"} <br>
+🎮 Play the latest <a href="https://store.steampowered.com/app/1822300/Bounce_Ball_Neon_Party_Arcade" target="_blank">Build</a> <br>
 <!-- 🎬 Watch the [Video walkthrough]() <br> -->
 
 |<img src="/img/bounce_ball/bounce_ball_logo.jpg" width="387">|<img src="/img/bounce_ball/bounce_ball_04.jpg" width="387">|
@@ -84,7 +84,7 @@ Play Gibbi in the zoo from an isometric view in a 3D-Environment. Gibbi doesn't 
 
 This game was created in 48 hours during the Global Game Jam 2024 with the theme "Make me laugh". 
 
-🎮 Play the latest [Build](https://fabiomangiameli.itch.io/gib-ihm-gibbon){:target="_blank"} <br>
+🎮 Play the latest <a href="https://fabiomangiameli.itch.io/gib-ihm-gibbon" target="_blank">Build</a> <br>
 <!-- 🎬 Watch the [Video walkthrough]() <br> -->
 
 |<img src="/img/gibbon/gibbon01.png" width="387">|<img src="/img/gibbon/gibbon03.png" width="387">|
@@ -109,12 +109,12 @@ This game was created in 48 hours during the Global Game Jam 2024 with the theme
 
 ### Crunch Time
 
-Crunch Time was created during the [BeansJam 2022](https://itch.io/jam/beansjam-22){:target="_blank"}. The theme for this game jam was "We have to stay awake" and was developed in 48 hours. The game was rated place 7 out of 65 submissions!
+Crunch Time was created during the <a href="https://itch.io/jam/beansjam-22" target="_blank">BeansJam 2022</a>. The theme for this game jam was "We have to stay awake" and was developed in 48 hours. The game was rated place 7 out of 65 submissions!
 
 The game is about a company late at night. You are the intern who needs to supply the workers with caffeinated drinks. Every now and then the sandman will come by and try to put your colleagues to sleep. Stop him by giving him a punch!
 The more employees are awake, the more money is earned. The goal is to keep your colleagues awake all night.
 
-🎮 Play the latest [Build](https://zwietabak.itch.io/crunch-time){:target="_blank"} <br>
+🎮 Play the latest <a href="https://zwietabak.itch.io/crunch-time" target="_blank">Build</a> <br>
 <!-- 🎬 Watch the [Video walkthrough]() <br> -->
 
 |<img src="/img/crunch_time/Crunch_Time_Menu.PNG"  width="387">|<img src="/img/crunch_time/Crunch_Time_In_Game.PNG" width="387">|
@@ -140,9 +140,9 @@ The more employees are awake, the more money is earned. The goal is to keep your
 
 You wake up in a dark place. A dungeon which is located under your home town. Confused and in pain you try to figure out what is going on until you hear a friendly voice. A little fairy appears, glowing in the dark and floating around. She offers you help and together you try to escape from the scary dark dungeon.
 
-This game was created in 48 hours during the [miniBeansjam 9](https://itch.io/jam/minibeansjam9){:target="_blank"} with the theme "We are not alone".
+This game was created in 48 hours during the <a href="https://itch.io/jam/minibeansjam9" target="_blank">miniBeansjam 9</a> with the theme "We are not alone".
 
-🎮 Play the latest [Build](https://fabiomangiameli.itch.io/scary-dark-dungeon){:target="_blank"} <br>
+🎮 Play the latest <a href="https://fabiomangiameli.itch.io/scary-dark-dungeon" target="_blank">Build</a> <br>
 <!-- 🎬 Watch the [Video walkthrough]() <br> -->
 
 |<img src="/img/dungeon/SSD_Screenshot_2.png"  width="387">|<img src="/img/dungeon/SSD_Screenshot_4.png" width="387">|
