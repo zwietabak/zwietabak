@@ -2,7 +2,7 @@
 
 My name is Oliver Klein and I'm a professional Systems and Network / DevOps Engineer with over 14 Years of experience in the IT industry. I planed, implemented and managed different types of systems, services, networks and critical infrastructure.
 
-In my free time I'm a passionate video gamer. Through my studies I got insight in the different topics of game development like programing, graphics game design and sound design. Right now I focus on game development with the Godot engine as a hobbyist and participate regularly at Game Jams.
+In my free time I'm a passionate video gamer. Through my studies I got insight in the different topics of game development like gameplay programing, 3D modelling, animations, texturing, procedural materials, vfx, game design and sound design. Right now I focus on game development with the Godot engine as a hobbyist and participate regularly at Game Jams.
 Here you can have a look on public projects I worked on.
 
 ---
