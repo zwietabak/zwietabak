@@ -20,7 +20,7 @@ But as time goes on, you begin to sense that something is following you through 
 
 |<img src="/img/korpsgeist/korpsgeist_01.png"  width="387">|<img src="/img/korpsgeist/korpsgeist_02.png" width="387">
 |---|---|
-|<img src="/gif/korpsgeist/Korpsgeist_Trailer_Final.gif" width="387">|<img src="" width="387">|
+|<img src="/gif/korpsgeist/Korpsgeist_Trailer_Final.gif" width="387">||
 
 #### ⚙ Technologies I used
 - Godot 4.4
@@ -89,7 +89,7 @@ This game was created in 48 hours during the Global Game Jam 2024 with the theme
 
 |<img src="/img/gibbon/gibbon01.png" width="387">|<img src="/img/gibbon/gibbon03.png" width="387">|
 |---|---|
-|<img src="/gif/gibbon/gibbon.gif" width="387">|<img src="" width="387">|
+|<img src="/gif/gibbon/gibbon.gif" width="387">||
 
 #### ⚙️ Technologies I used:
 - Godot 4.2
